@@ -1,0 +1,24 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "Daniel Asakpa",
+      "email": "danielasakpa@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Vera Ibitoye",
+      "email": "veraibitoye@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Jupiter Rufus",
+      "email": "jupiterufus@gmail.com"
+    },
+    {
+      "id": "0700",
+      "name": "Ovie Asakpa",
+      "email": "ovieasakpa@gmail.com"
+    }
+  ]
+}
